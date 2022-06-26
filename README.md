@@ -1,2 +1,2 @@
-# Image-Slider
+# ImageSlider
 Created with CodeSandbox
